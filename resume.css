@@ -1,1 +1,72 @@
+h1 {
+    text-align:center;
+}
 
+#first {
+    background-color:skyblue;
+}
+
+#second {
+    background-color:lightblue;
+}
+
+#third {
+    background-color:skyblue;
+}
+
+#forth {
+    background-color:lightblue;
+}
+
+#fifth {
+    background-color:skyblue;
+}
+
+.switch {
+    font-size:25px;
+}
+
+.chewy {
+    font-size:30px;
+    font-family:'Courier New';
+}
+
+#right {
+    text-align:right;
+}
+
+.buttons {
+    text-align:left;
+    
+    
+}
+
+#imgright {
+    display:block;
+    margin-left:auto;
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+  }
+  
+
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px black; 
+    border-radius: 10px;
+  }
+   
+
+  ::-webkit-scrollbar-thumb {
+    background: blue; 
+    border-radius: 10px;
+  }
+  
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: darkblue; 
+  }
+
+  .link:hover {
+      color:grey;
+  }
